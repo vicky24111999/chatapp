@@ -1,3 +1,6 @@
+#IF WANT TO RUN THE PROJECT ON BROWSER
+##VISIT: https://chatappbysrikant.netlify.app/
+##USER-NAME:srikant PASSWORD:1234
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
