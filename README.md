@@ -1,5 +1,7 @@
-#IF WANT TO RUN THE PROJECT ON BROWSER
+#IF WANT TO RUN THIS PROJECT ON BROWSER
+
 ##VISIT: https://chatappbysrikant.netlify.app/
+
 ##USER-NAME:srikant PASSWORD:1234
 # Getting Started with Create React App
 
